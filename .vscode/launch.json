@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ApplicationStarter<java-spring-boot-mongodb-starter>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.mongodb.starter.ApplicationStarter",
+            "projectName": "java-spring-boot-mongodb-starter",
+            "args": ""
+        }
+    ]
+}
