@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch MeanTracker",
+            "request": "launch",
+            "mainClass": "com.mongodb.starter.practice.MeanTracker",
+            "projectName": "java-spring-boot-mongodb-starter"
+        },
+        {
+            "type": "java",
+            "name": "Launch AddStrings",
+            "request": "launch",
+            "mainClass": "com.mongodb.starter.practice.AddStrings",
+            "projectName": "java-spring-boot-mongodb-starter"
+        },
+        {
+            "type": "java",
             "name": "Spring Boot-ApplicationStarter<java-spring-boot-mongodb-starter>",
             "request": "launch",
             "cwd": "${workspaceFolder}",
