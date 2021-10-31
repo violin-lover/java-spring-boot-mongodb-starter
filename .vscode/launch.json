@@ -2,6 +2,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch SimpleMath",
+            "request": "launch",
+            "mainClass": "com.mongodb.starter.practice.SimpleMath",
+            "projectName": "java-spring-boot-mongodb-starter"
+        },
+        {
+            "type": "java",
+            "name": "Launch mathPythagTriple",
+            "request": "launch",
+            "mainClass": "com.mongodb.starter.practice.mathPythagTriple",
+            "projectName": "java-spring-boot-mongodb-starter"
+        },
+        {
+            "type": "java",
+            "name": "Launch findPythagTriple",
+            "request": "launch",
+            "mainClass": "com.mongodb.starter.practice.findPythagTriple",
+            "projectName": "java-spring-boot-mongodb-starter"
+        },
+        {
+            "type": "java",
+            "name": "Launch GoldbachTheGermanDude2",
+            "request": "launch",
+            "mainClass": "com.mongodb.starter.practice.GoldbachTheGermanDude2",
+            "projectName": "java-spring-boot-mongodb-starter"
+        },
+        {
+            "type": "java",
+            "name": "Launch GoldbachTheGermanDude",
+            "request": "launch",
+            "mainClass": "com.mongodb.starter.practice.GoldbachTheGermanDude",
+            "projectName": "java-spring-boot-mongodb-starter"
+        },
+        {
+            "type": "java",
+            "name": "Launch Fibonacci",
+            "request": "launch",
+            "mainClass": "com.mongodb.starter.practice.Fibonacci",
+            "projectName": "java-spring-boot-mongodb-starter"
+        },
+        {
+            "type": "java",
+            "name": "Launch RomanNumerals",
+            "request": "launch",
+            "mainClass": "com.mongodb.starter.practice.RomanNumerals",
+            "projectName": "java-spring-boot-mongodb-starter"
+        },
+        {
+            "type": "java",
+            "name": "Launch MaxProfit",
+            "request": "launch",
+            "mainClass": "com.mongodb.starter.practice.MaxProfit",
+            "projectName": "java-spring-boot-mongodb-starter"
+        },
+        {
+            "type": "java",
             "name": "Launch MeanTracker",
             "request": "launch",
             "mainClass": "com.mongodb.starter.practice.MeanTracker",
